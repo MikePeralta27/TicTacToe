@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		C821AE1F2F5A77F70089589C /* Exceptions for "TicTacToe" folder in "TicTacToe" target */ = {
+		C821AE5A2F5E43610089589C /* Exceptions for "TicTacToe" folder in "TicTacToe" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		C821AE0C2F5A77F50089589C /* TicTacToe */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				C821AE1F2F5A77F70089589C /* Exceptions for "TicTacToe" folder in "TicTacToe" target */,
+				C821AE5A2F5E43610089589C /* Exceptions for "TicTacToe" folder in "TicTacToe" target */,
 			);
 			path = TicTacToe;
 			sourceTree = "<group>";
